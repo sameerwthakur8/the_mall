@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325609336971",
+    "firebase_url": "https://themall-f3004.firebaseio.com",
+    "project_id": "themall-f3004",
+    "storage_bucket": "themall-f3004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325609336971:android:ecc191d86f2e501e23248e",
+        "android_client_info": {
+          "package_name": "com.example.the_mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325609336971-dale3umjumope34nrnb7qvtelu4b7tbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_mall",
+            "certificate_hash": "85372a96441f1c7ac70a70dad092d56e3055a3e5"
+          }
+        },
+        {
+          "client_id": "325609336971-0snqqsc5j2133udefm2q0s48i7haiod2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CBJg-IOqGYibrzUfy2wv4vZfXNtqwsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325609336971-0snqqsc5j2133udefm2q0s48i7haiod2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
